@@ -486,9 +486,6 @@ function CTASection({ onOpenDemoModal }: { onOpenDemoModal: () => void }) {
             {t.cta.scheduleDemo}
           </Button>
         </div>
-        <p className="text-sm text-slate-500 mt-6">
-          {t.cta.note}
-        </p>
       </div>
     </section>
   );
