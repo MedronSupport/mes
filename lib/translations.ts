@@ -99,7 +99,7 @@ export const translations = {
       cancel: 'Cancel',
     },
     footer: {
-      description: 'Modern MES platform for smart factories by Medron Technology.',
+      description: 'Modern MES platform for smart factories by Deviceye Technology.',
       product: 'Product',
       features: 'Features',
       caseStudies: 'Case Studies',
@@ -107,7 +107,7 @@ export const translations = {
       about: 'About Us',
       careers: 'Careers',
       contact: 'Contact',
-      copyright: '© 2026 Medron Technology. All rights reserved.',
+      copyright: '© 2026 Deviceye Technology. All rights reserved.',
     },
   },
   tr: {
@@ -208,7 +208,7 @@ export const translations = {
       cancel: 'İptal',
     },
     footer: {
-      description: 'Medron Technology tarafından akıllı fabrikalar için modern MES platformu.',
+      description: 'Deviceye Technology tarafından akıllı fabrikalar için modern MES platformu.',
       product: 'Ürün',
       features: 'Özellikler',
       caseStudies: 'Vaka Çalışmaları',
@@ -216,7 +216,7 @@ export const translations = {
       about: 'Hakkımızda',
       careers: 'Kariyer',
       contact: 'İletişim',
-      copyright: '© 2026 Medron Technology. Tüm hakları saklıdır.',
+      copyright: '© 2026 Deviceye Technology. Tüm hakları saklıdır.',
     },
   },
 };
